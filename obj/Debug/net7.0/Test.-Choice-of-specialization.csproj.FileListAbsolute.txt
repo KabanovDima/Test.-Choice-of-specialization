@@ -1,0 +1,15 @@
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\bin\Debug\net7.0\Test.-Choice-of-specialization.exe
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\bin\Debug\net7.0\Test.-Choice-of-specialization.deps.json
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\bin\Debug\net7.0\Test.-Choice-of-specialization.runtimeconfig.json
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\bin\Debug\net7.0\Test.-Choice-of-specialization.dll
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\bin\Debug\net7.0\Test.-Choice-of-specialization.pdb
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\obj\Debug\net7.0\Test.-Choice-of-specialization.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\obj\Debug\net7.0\Test.-Choice-of-specialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\obj\Debug\net7.0\Test.-Choice-of-specialization.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\obj\Debug\net7.0\Test.-Choice-of-specialization.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\obj\Debug\net7.0\Test.-Choice-of-specialization.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\obj\Debug\net7.0\Test.-Choice-of-specialization.dll
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\obj\Debug\net7.0\refint\Test.-Choice-of-specialization.dll
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\obj\Debug\net7.0\Test.-Choice-of-specialization.pdb
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\obj\Debug\net7.0\Test.-Choice-of-specialization.genruntimeconfig.cache
+C:\Users\Dmitry\Desktop\Git test\Test.-Choice-of-specialization\obj\Debug\net7.0\ref\Test.-Choice-of-specialization.dll
